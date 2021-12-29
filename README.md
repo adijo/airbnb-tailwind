@@ -1,6 +1,6 @@
 # Next.js + Tailwind CSS
 
-Building AirBnB with tailwind following [Sonny Sangha's](https://www.youtube.com/watch?v=3xrko3GpYoU) tutorials
+Building AirBnB with tailwind following [Sonny Sangha's](https://www.youtube.com/user/ssangha32/videos) tutorials
 
 # Setup
 
@@ -11,5 +11,8 @@ npm run dev
 
 # Demo
 
-![Homepage](https://user-images.githubusercontent.com/3933447/147621289-2a69da83-df43-4639-ad4f-23d47127c7e8.png)
+![Homepage 1](images/1.png)
 
+![Homepage 2](images/2.png)
+
+![Search Page](images/3.png)
